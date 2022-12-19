@@ -1,6 +1,10 @@
 .env
 .cache
-**\iTunes\
-json
-xlsx
-PandasTest.py
+__pycache__
+**/iTunes/
+*.json
+*.xlsx
+*.py
+*.cvs
+SpotifyAPITest.ipynb
+JupyterTest.ipynb
