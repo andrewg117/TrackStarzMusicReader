@@ -1,6 +1,6 @@
 .env
 .cache
-iTunes/
-*.json
-*.xlsx
-*.py
+**/iTunes/
+json
+xlsx
+PandasTest.py
