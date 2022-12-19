@@ -5,6 +5,6 @@ __pycache__
 *.json
 *.xlsx
 *.py
-*.cvs
+*.csv
 SpotifyAPITest.ipynb
 JupyterTest.ipynb
