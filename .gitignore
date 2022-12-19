@@ -6,5 +6,6 @@ __pycache__
 *.xlsx
 *.py
 *.csv
+*~lock*
 SpotifyAPITest.ipynb
 JupyterTest.ipynb
