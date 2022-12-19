@@ -1,2 +1,6 @@
 .env
-iTunesKey
+.cache
+iTunes/
+*.json
+*.xlsx
+*.py
