@@ -8,6 +8,7 @@ __pycache__
 *.xlsx
 *.py
 *.csv
+*.db
 *~lock*
 SpotifyAPITest.ipynb
 JupyterTest.ipynb
